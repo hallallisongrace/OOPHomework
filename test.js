@@ -1,6 +1,6 @@
 
 // 3.
-var myArray = [["Kittens", 2],  [Puppies, 4]]
+var myArray = [["Kittens", 2],  ["Puppies", 4]]
 
 
 // 4.
